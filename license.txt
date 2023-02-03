@@ -1,0 +1,11 @@
+Model Information:
+* title:	Strawberry (Jumbo Poly) Freebie
+* source:	https://sketchfab.com/3d-models/strawberry-jumbo-poly-freebie-0b9867d98c154737b422fa5afacfc178
+* author:	Geug (https://sketchfab.com/Geug)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Strawberry (Jumbo Poly) Freebie" (https://sketchfab.com/3d-models/strawberry-jumbo-poly-freebie-0b9867d98c154737b422fa5afacfc178) by Geug (https://sketchfab.com/Geug) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
